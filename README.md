@@ -123,4 +123,11 @@ REM 改动后的代码
 
 项目链接：https://github.com/LiuJiewenTT/L4D2_OfflineAssistant
 
+网页链接：https://liujiewentt.github.io/L4D2_OfflineAssistant/README
+
+下载autocheck.bat：
+
+1. dev: https://github.com/LiuJiewenTT/L4D2_OfflineAssistant/raw/main/autocheck.bat
+2. release: https://github.com/LiuJiewenTT/L4D2_OfflineAssistant/releases/
+
 授权：本项目使用MIT开源协议。请署名作者及协议。协议内容见`LICENSE`文件。
