@@ -44,7 +44,7 @@ set flag=false
         if %printlog%==false (
             robocopy /S /MT:32  "%profiledir%\" "%workshopdir%\" /UNILOG:"log.txt"
         ) else (
-            robocopy /S /MT:32 /NP "%profiledir%" "%workshopdir%"
+            robocopy /S /MT:32 /NP "%profiledir%\" "%workshopdir%\"
         )
         echo Copy Complete.
         echo mark>>"%markpath%"
